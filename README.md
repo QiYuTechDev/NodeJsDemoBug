@@ -1,6 +1,4 @@
-# NodeJsDemoBug
-
-Parcel Bug demo
+# Parcel Bug Demo
 
 step to reproduce:
 
